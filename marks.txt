@@ -1,0 +1,29 @@
+Group Name: neojarvan
+
+
+PUT /api/v1/addActor tests (out of 4 marks)
+Score: 4/4
+
+PUT /api/v1/addMovie tests (out of 4 marks)
+Score: 4/4
+
+PUT /api/v1/addRelationship tests (out of 4 marks)
+Score: 1/4
+
+GET /api/v1/getActor tests (out of 4 marks)
+Score: 3/4
+
+GET /api/v1/getMovie tests (out of 4 marks)
+Score: 3/4
+
+GET /api/v1/hasRelationship tests (out of 4 marks)
+Score: 2/5
+
+GET /api/v1/computeBaconNumber tests (out of 5 marks)
+Score: 2/5
+
+GET /api/v1/computeBaconPath tests (out of 5 marks)
+Score: 2/5
+
+
+Total: 21/34
